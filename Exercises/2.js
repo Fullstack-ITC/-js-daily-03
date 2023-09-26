@@ -1,6 +1,6 @@
 /**
- * In the function, call the callback function
- * only if callMe is true
+ * In the function, execute the callback function
+ * only if the callMe variable is true
  * @param {boolean} callMe
  * @param {Function} callback
  */
